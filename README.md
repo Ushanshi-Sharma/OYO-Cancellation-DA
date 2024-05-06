@@ -38,7 +38,7 @@
 ## Screenshot
 
 <p float="left">
-       <img src="https://github.com/Ushanshi-Sharma/Netflix-Python-Data-Analysis/assets/154740255/07134e09-a365-44ee-8851-47f373e84230.jpg" height="500"  />
+       <img src="https://github.com/Ushanshi-Sharma/Netflix-Python-Data-Analysis/assets/154740255/07134e09-a365-44ee-8851-47f373e84230.jpg" height="500" width= "800"  />
    
 </p>
 
